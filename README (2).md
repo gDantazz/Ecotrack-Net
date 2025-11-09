@@ -73,7 +73,7 @@ builder.Services.AddDbContext<EcoTrackDbContext>(opt =>
 
 ### 2️⃣ Clonar o projeto
 ```bash
-git clone https://github.com/Pnetoo/.NET-EcoTrack.git
+git clone https://github.com/gDantazz/Ecotrack-Net
 cd .NET-EcoTrack/EcoTrack.Net
 ```
 
