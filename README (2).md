@@ -163,11 +163,6 @@ Isso garante que o cliente possa navegar na API dinamicamente, sem precisar conh
 
 ---
 
-## 📹 Vídeo de Demonstração
-(Adicione aqui o link do seu vídeo não listado no YouTube mostrando o funcionamento da API, o Swagger e os endpoints em execução.)
-
----
-
 ## 👨‍💻 Integrantes
 
 | Gustavo Dantas | RM560685
